@@ -1,0 +1,13 @@
+.image-style {
+  width: 100%;
+}
+
+li {
+  list-style: none;
+  font-family: 'Roboto';
+  font-size: 18px;
+  font-weight: bold;
+  color: #272c47;
+  margin-top: 5px;
+  margin-bottom: 5px;
+}
